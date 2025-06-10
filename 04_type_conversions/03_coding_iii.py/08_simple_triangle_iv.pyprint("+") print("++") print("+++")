@@ -1,0 +1,5 @@
+
+#a simple triangle with pluses (+)
+print("+")
+print("++")
+print("+++")
