@@ -6,7 +6,7 @@ Learn to write code in Python and solve the challenging coding questions for pra
 
 # Python Learning Path
 
-1. [introduction](./introduction)
+1. [introduction](./01_introduction)
 2. [Variables and data types](./variables_and_data_types)
 3. [Inputs & Outputs - basics](./inputs_&_outputs_-_basics)
 4. [Type conversions](./04_type_conversions)
