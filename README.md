@@ -1,7 +1,5 @@
 # python-coding-nxtwave
----> Programming foundations with Python.
----> Fundamental concepts of programming.
----> Learn to write code in Python and solve the challenging coding questions for practice along the way.
+---> Programming foundations with Python.Learn to write code in Python and solve the challenging coding questions .
 
 # Python Learning Path
 1. [introduction](./01_introduction)
